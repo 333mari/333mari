@@ -5,7 +5,6 @@
 
 <h3 align="center">I’m a passionate programmer driven by the limitless possibilities of technology</h3>
 <p align="center">From an early age, I’ve been fascinated by how computers and software have transformed the way we live and interact with the world. Witnessing this rapid evolution sparked my interest in software engineering, and that curiosity has only grown stronger over time 🌐. I constantly explore new technologies, eager to dive into innovative tools and frameworks that can push the boundaries of what’s possible. My goal is not just to write code, but to craft solutions that solve real-world problems and create a meaningful impact. Whether it's optimizing performance, building intuitive user interfaces, or automating complex tasks, I’m always up for the challenge.
-
 For me, programming isn’t just about knowing the syntax or mastering the tools. It’s about understanding how to approach problems creatively, iterating through solutions, and learning from failures. After all, each mistake brings me closer to success. I thrive on the satisfaction that comes from turning ideas into tangible, working products that people can use and benefit from 💻. I’m excited to continue this journey of discovery, growth, and innovation, using my skills to shape the future of technology 🛠️.</p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
