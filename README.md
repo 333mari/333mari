@@ -41,7 +41,7 @@ At the end of the day, every mistake brings me closer to success. I love the sat
 
  </div>
  
-<br><br><br><br>
+<br>
 
 ```js
 import SoftwareDeveloper from 'thompsonemerson';
