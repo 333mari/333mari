@@ -27,6 +27,12 @@ class Skills extends SoftwareDeveloper {
   frameworks = ['React', 'React Native', 'Angular', 'GraphQL'];
 }
 ```
+#
+
+<a target="_blank"><img align="left" height="300" width="300" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
+<br/>
+
+
 **LANGUAGES AND TOOLS:**  
 
 
@@ -56,3 +62,5 @@ class Skills extends SoftwareDeveloper {
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png"></code>
 
 <br/>
+
+#
