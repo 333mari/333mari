@@ -3,12 +3,12 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-<h3 align="center">I’m a passionate programmer driven by the limitless possibilities of technology</h3>
-<p align="center">From an early age, I’ve been fascinated by how computers and software have transformed the way we live and interact with the world. Witnessing this rapid evolution sparked my interest in software engineering, and that curiosity has only grown stronger over time 🌐. I constantly explore new technologies, eager to dive into innovative tools and frameworks that can push the boundaries of what’s possible.
- 
-My goal is not just to write code, but to craft solutions that solve real-world problems and create a meaningful impact. Whether it's optimizing performance, building intuitive user interfaces, or automating complex tasks, I’m always up for the challenge.
-
-For me, programming isn’t just about knowing the syntax or mastering the tools. It’s about understanding how to approach problems creatively, iterating through solutions, and learning from failures. After all, each mistake brings me closer to success. I thrive on the satisfaction that comes from turning ideas into tangible, working products that people can use and benefit from 💻. I’m excited to continue this journey of discovery, growth, and innovation, using my skills to shape the future of technology 🛠️.</p>
+<h3 align="center">I am a passionate programmer driven by the limitless possibilities of technology.</h3>
+<p align="center">I have been fascinated by how computers and software have transformed the way we live and interact with the world. Witnessing this rapid evolution sparked my interest in software engineering, and that curiosity has only grown over time 🌐. I constantly explore new technologies, eager to immerse myself in innovative tools and frameworks that can push the boundaries of what's possible.
+My goal is not just to write code, but to create solutions that solve real-world problems and create meaningful impact. Whether it's optimizing performance, creating intuitive user interfaces, or automating complex tasks, I'm always up for the challenge 💻. 
+For me, programming isn't just about knowing syntax or mastering tools. It's about understanding how to approach problems creatively, iterate through solutions and learn from failures.
+At the end of the day, every mistake brings me closer to success. I love the satisfaction of turning ideas into tangible, functional products that people can use and benefit from. I am excited to continue this journey of discovery, growth and innovation, using my skills to shape the future of technology 🛠️.
+</p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
 <!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
