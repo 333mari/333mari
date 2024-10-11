@@ -1,4 +1,4 @@
-# Hello there I am Viral Bhadeshiya👋
+# Hello there I am Mar Code👋
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
