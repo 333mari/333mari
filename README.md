@@ -22,7 +22,6 @@ At the end of the day, every mistake brings me closer to success. I love the sat
   <a href="https://www.linkedin.com/in/marinela-rodriguez-gonzalez-816ab7313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the- 
   badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:maeinela251987@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/marirg.01/profilecard/?igsh=c2kwMHN0d2FkbGZr"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ## Tools currently using
