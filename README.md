@@ -111,5 +111,5 @@ class Skills extends SoftwareDeveloper {
 <hr>
 
 ------
-[Mahdiiye](https://github.com/333mari)
-Last Edited on: 19/01/2023
+[Marinela R.](https://github.com/333mari)
+Last Edited on: 11/10/2024
