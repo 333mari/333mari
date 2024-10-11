@@ -110,6 +110,10 @@ class Skills extends SoftwareDeveloper {
 <br>
 <hr>
 
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="120px" />
+</div>
+
 ------
 [Marinela R.](https://github.com/333mari)
 Last Edited on: 11/10/2024
