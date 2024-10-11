@@ -44,16 +44,16 @@ At the end of the day, every mistake brings me closer to success. I love the sat
 import SoftwareDeveloper from 'thompsonemerson';
 
 class Bio extends SoftwareDeveloper {
-  name     = 'Emerson Thompson';
+  name     = 'Marinela Rodriguez';
   title    = 'Software Engineer';
   company  = 'Pipoca Digital | Remote';
   location = 'Fortaleza, CE';
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'PHP'];
+  languages  = ['JavaScript', 'Node JS'];
   databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
-  frameworks = ['React', 'React Native', 'Angular', 'GraphQL'];
+  frameworks = ['React', 'Bootstrap', 'Express.js', 'FastAPI'];
 }
 ```
 #
